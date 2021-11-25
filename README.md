@@ -5,7 +5,7 @@ Heres my collection of projects, most of which are still works in progress.
 Reach out to me on...
 
 * [linkedin](https://linkedin.com/in/matthewjkang)
-* [instagram](https://instagram.com/kangjmatthew)
+* [instagram](https://www.instagram.com/kangjmatthew/)
 * [email](mjk095@ucsd.edu)
 
 
