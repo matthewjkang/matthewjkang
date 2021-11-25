@@ -1,6 +1,5 @@
 ### Hi, I'm Matthew
 
-I am deeply interested in data engineering.
 Heres my collection of projects, most of which are still works in progress. 
 
 Reach out to me on...
