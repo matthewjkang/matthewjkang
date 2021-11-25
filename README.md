@@ -2,7 +2,7 @@
 
 Reach out to me on...
 
-[linkedin](https://linkedin.com/in/matthewjkang)
+* [linkedin](https://linkedin.com/in/matthewjkang)
 
 
 <!--
