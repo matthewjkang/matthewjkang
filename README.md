@@ -1,6 +1,8 @@
-### Hi, I'm Matthew ! 🧑🏻‍💻
+### Hi, I'm Matthew 🧑🏻‍💻
 
+Reach out to me on...
 
+[linkedin](https://linkedin.com/in/matthewjkang)
 
 
 <!--
