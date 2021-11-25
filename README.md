@@ -1,8 +1,12 @@
-### Hi, I'm Matthew 🧑🏻‍💻
+### Hi, I'm Matthew
+
+Heres my collection of projects, most of which are still works in progress. 
 
 Reach out to me on...
 
 * [linkedin](https://linkedin.com/in/matthewjkang)
+* [instagram](https://instagram.com/kangjmatthew)
+* [email](mjk095@ucsd.edu)
 
 
 <!--
