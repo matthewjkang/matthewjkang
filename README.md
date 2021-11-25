@@ -6,7 +6,7 @@ Reach out to me on...
 
 * [linkedin](https://linkedin.com/in/matthewjkang)
 * [instagram](https://www.instagram.com/kangjmatthew/)
-* [email](mjk095@ucsd.edu)
+* email : mjk095@ucsd.edu
 
 
 <!--
